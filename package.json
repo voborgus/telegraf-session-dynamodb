@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nessgor/telegraf-session-dynamodb.git"
+    "url": "git+https://github.com/voborgus/telegraf-session-dynamodb.git"
   },
   "keywords": [
     "telegram",
@@ -25,9 +25,9 @@
   "author": "Ness Li <nessli2002@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/nessgor/telegraf-session-dynamodb/issues"
+    "url": "https://github.com/voborgus/telegraf-session-dynamodb/issues"
   },
-  "homepage": "https://github.com/nessgor/telegraf-session-dynamodb#readme",
+  "homepage": "https://github.com/voborgus/telegraf-session-dynamodb#readme",
   "engines": {
     "node": ">=6.10.3"
   },
