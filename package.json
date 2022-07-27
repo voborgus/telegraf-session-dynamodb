@@ -1,5 +1,5 @@
 {
-  "name": "telegraf-session-dynamodb",
+  "name": "telegraf-session-dynamodb-temp-fork",
   "version": "1.4.0",
   "description": "DynamoDB session middleware for Telegraf",
   "main": "lib/session.js",
